@@ -2,7 +2,7 @@
 
 ## Skill
 
-### Flutter기반 멀티플랫폼 App 개발
+### 1. Flutter기반 멀티플랫폼 App 개발
 
 - MVVM 구조, Clean Architecture 설계
 
@@ -12,7 +12,7 @@
 
 - REST API 활용
 
-### C++ (MFC), C# (Win Form)
+### 2. C++ (MFC), C# (Win Form)
 
 
 ## Contract
