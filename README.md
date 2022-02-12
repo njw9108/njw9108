@@ -2,17 +2,17 @@
 
 ## Skill
 
-Flutter기반 멀티플랫폼 App 개발
+### Flutter기반 멀티플랫폼 App 개발
 
-MVVM 구조, Clean Architecture 설계
+- MVVM 구조, Clean Architecture 설계
 
-Provider를 이용한 상태 관리
+- Provider를 이용한 상태 관리
 
-Git을 이용한 버전 관리
+- Git을 이용한 버전 관리
 
-REST API 활용
+- REST API 활용
 
-C++ (MFC), C# (Win Form)
+### C++ (MFC), C# (Win Form)
 
 
 ## Contract
