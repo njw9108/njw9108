@@ -26,7 +26,7 @@
   
 </div>
 
-### Contract
+### Contact
 email : njw9108@naver.com
 
 [<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />](https://njw9108.tistory.com/)
